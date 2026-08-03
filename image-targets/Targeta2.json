@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 140,
+    "left": 0,
+    "width": 899,
+    "height": 1199,
+    "isRotated": false,
+    "originalWidth": 899,
+    "originalHeight": 1599
+  },
+  "imagePath": "image-targets/Targeta2_luminance.jpg",
+  "metadata": null,
+  "name": "Targeta2",
+  "resources": {
+    "originalImage": "Targeta2_original.jpg",
+    "croppedImage": "Targeta2_cropped.jpg",
+    "thumbnailImage": "Targeta2_thumbnail.jpg",
+    "luminanceImage": "Targeta2_luminance.jpg"
+  },
+  "created": 1785779752500,
+  "updated": 1785779771842
+}
